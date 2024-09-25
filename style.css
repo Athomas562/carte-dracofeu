@@ -1,0 +1,23 @@
+.bordure-tout {
+	border: 1px solid black;
+	border-radius: 15px;
+}
+
+.fond-bleu {
+	border: 1px solid aquamarine;
+	background-color: aquamarine;
+	border-radius: 15px;
+	height: 70px;
+}
+
+.fond-orange {
+	border: 1px solid red;
+	background-color: red;
+	border-radius: 15px;
+}
+
+.fond-rouge {
+	border: 1px solid orange;
+	background-color: orange;
+	border-radius: 15px;
+}
